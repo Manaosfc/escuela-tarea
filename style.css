@@ -1,5 +1,9 @@
 .hola {
+<<<<<<< HEAD
 
+=======
+    text-align: justify;
+>>>>>>> d0bcc3592cc19a142cd89adb9298bf1037b3f113
     background-color: white;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -7,29 +11,46 @@
 h1 {
     color: black;
     text-align: center;
+<<<<<<< HEAD
 
 }
 
 .h2-inicio {
     text-align: justify;
+=======
+}
+
+.h2-inicio {
+>>>>>>> d0bcc3592cc19a142cd89adb9298bf1037b3f113
     color: black;
     font-size: 18px;
     margin-left: 200px;
     margin-right: 200px;
 }
 
+<<<<<<< HEAD
 /* comienza estilo de las targetas */
 
 .testosterona {
   
 }
 
+=======
+/* comienza estilo de las tarjetas */
+.testosterona {
+    text-align: center;
+}
+
+>>>>>>> d0bcc3592cc19a142cd89adb9298bf1037b3f113
 .h2-testosterona {
-    margin-left: 460px;
     margin-top: 50px;
 }
 
 img {
     margin-left: 300px;
+<<<<<<< HEAD
    
 }
+=======
+}
+>>>>>>> d0bcc3592cc19a142cd89adb9298bf1037b3f113
