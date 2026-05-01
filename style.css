@@ -1,5 +1,4 @@
 .hola {
-    text-align: justify;
     background-color: white;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -7,24 +6,45 @@
 h1 {
     color: black;
     text-align: center;
+
 }
 
 .h2-inicio {
+    text-align: justify;
     color: black;
     font-size: 18px;
     margin-left: 200px;
     margin-right: 200px;
 }
 
-/* comienza estilo de las tarjetas */
-.testosterona {
-    text-align: center;
-}
-
-.h2-testosterona {
-    margin-top: 50px;
-}
+/* comienza estilo de las targetas */
 
 img {
-    margin-left: 300px;
+    margin-left: 350px;
+    margin-top: 50px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    box-shadow: 0 4px 12px 4px rgba(0, 0, 10, 0.3);
+}
+
+.img-trembolona {
+    margin-left: 200px;
+    margin-top: 50px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    box-shadow: 0 4px 12px 4px rgba(0, 0, 10, 0.3);
+}
+
+.img-estanozolol {
+    margin-left: 200px;
+    margin-top: 50px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    box-shadow: 0 4px 12px 4px rgba(0, 0, 10, 0.3);
 }
