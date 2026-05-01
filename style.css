@@ -1,58 +1,30 @@
 .hola {
-<<<<<<< HEAD
     text-align: justify;
     background-color: white;
     font-family: 'Courier New', Courier, monospace;
-    
-
-=======
-    background-color: white;
-    font-family: 'Courier New', Courier, monospace;
->>>>>>> 655b45e63c132bf7b21241e3f0876e7f1974a3c2
 }
 
 h1 {
     color: black;
     text-align: center;
-<<<<<<< HEAD
-    
-}
-
-h2 {
-=======
-
 }
 
 .h2-inicio {
-    text-align: justify;
->>>>>>> 655b45e63c132bf7b21241e3f0876e7f1974a3c2
     color: black;
     font-size: 18px;
     margin-left: 200px;
     margin-right: 200px;
 }
 
-/* comienza estilo de las targetas */
-<<<<<<< HEAD
-.target-testosterona {
+/* comienza estilo de las tarjetas */
+.testosterona {
     text-align: center;
 }
 
-
-=======
-.testosterona {
-  text-align: center;
-}
-
-
-
 .h2-testosterona {
-    margin-left: 460px;
     margin-top: 50px;
 }
 
 img {
     margin-left: 300px;
-   
 }
->>>>>>> 655b45e63c132bf7b21241e3f0876e7f1974a3c2
