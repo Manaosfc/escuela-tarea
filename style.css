@@ -1,0 +1,27 @@
+.hola {
+    text-align: justify;
+    background-color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    
+}
+
+h2 {
+    color: black;
+    font-size: 18px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+/* comienza estilo de las targetas */
+.target-testosterona {
+    text-align: center;
+}
+
+
