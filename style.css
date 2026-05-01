@@ -1,18 +1,16 @@
 .hola {
-    text-align: justify;
     background-color: white;
     font-family: 'Courier New', Courier, monospace;
-    
-
 }
 
 h1 {
     color: black;
     text-align: center;
-    
+
 }
 
-h2 {
+.h2-inicio {
+    text-align: justify;
     color: black;
     font-size: 18px;
     margin-left: 200px;
@@ -20,8 +18,18 @@ h2 {
 }
 
 /* comienza estilo de las targetas */
-.target-testosterona {
-    text-align: center;
+.testosterona {
+  
 }
 
 
+
+.h2-testosterona {
+    margin-left: 460px;
+    margin-top: 50px;
+}
+
+img {
+    margin-left: 300px;
+   
+}
