@@ -7,11 +7,19 @@ body {
 h1 {
     text-align: center;
     font-size: 40px;
+    margin-down: 50px;
 }
 
 .destes {
     text-align: justify;
-    font-size: 18px;
+    font-size: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
     margin-left: 200px;
     margin-right: 200px;
 }
