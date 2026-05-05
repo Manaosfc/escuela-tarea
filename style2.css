@@ -1,0 +1,133 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-image: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.4)),
+                    url("imagenes/fondogym.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+h2 {
+    text-align: justify;
+    font-size: 35px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+h3 {
+    text-align: justify;
+    font-size: 35px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+p {
+    text-align: justify;
+    font-size: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.h2-ficha {
+    text-align: center;
+    font-size: 40px;
+
+}
+
+/* ----------ESTILO DE FICHAS TESTOSTERONA---------- */
+.ficha-anabolico {
+    width: 700px;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 20px auto;
+    
+}
+
+.ficha-anabolico p {
+    margin: 10px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    padding-bottom: 8px;
+}
+/* ----------ESTILO DE FICHAS TREMBOLONA---------- */
+.ficha-anabolico-trembo {
+    width: 700px;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 20px auto;
+    
+}
+
+.ficha-anabolico-trembo p {
+    margin: 10px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    padding-bottom: 8px;
+}
+
+/* ----------ESTILO DE FICHAS ESTANOZOLOL---------- */
+
+.ficha-anabolico-estanozolol {
+    width: 700px;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 20px auto;
+    
+}
+
+.ficha-anabolico-estanozolol p {
+    margin: 10px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    padding-bottom: 8px;
+}
+
+/* ----------ESTILO DE FICHAS DIANABOL---------- */
+
+.ficha-anabolico-dianabol {
+    width: 700px;
+    padding: 20px;
+    border: 2px solid white;
+    border-radius: 12px;
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 20px auto;
+    
+}
+
+.ficha-anabolico-dianabol p {
+    margin: 10px 0;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+    padding-bottom: 8px;
+}
+
+
+.div-listas {
+    text-align: justify;
+    font-size: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+h4 {
+    text-align: justify;
+    font-size: 31px;
+    margin-left: 200px;
+}
+
+img {
+    width: 30%;
+    display: block;
+    margin: 0 auto;
+}

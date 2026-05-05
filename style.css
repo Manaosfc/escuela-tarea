@@ -1,0 +1,57 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-image: linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.4)),
+                      url("imagenes/fondogym.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+ 
+}
+
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 70px;
+}
+
+.h2-inicio {
+    text-align: justify;
+    color: white;
+    font-size: 25px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+/* comienza estilo de las targetas */
+
+img {
+    margin-left: 350px;
+    margin-top: 50px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    box-shadow: 0 4px 12px 4px rgba(0, 0, 10, 0.3);
+}
+
+.img-trembolona {
+    margin-left: 200px;
+    margin-top: 50px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    box-shadow: 0 4px 12px 4px rgba(0, 0, 10, 0.3);
+}
+
+.img-estanozolol {
+    margin-left: 200px;
+    margin-top: 50px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 5px;
+    box-shadow: 0 4px 12px 4px rgba(0, 0, 10, 0.3);
+}
